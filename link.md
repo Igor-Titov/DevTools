@@ -1,7 +1,7 @@
 ### [Completed task](https://drive.google.com/file/d/1cq5XDlCart_eWRzS99wBu-Dk-KPQ_5UN/view?usp=share_link)
 ---
 ### Task ⤵️
-Сделать скрин видео выполнения задания
+Виконати завдання та записати скрінкаст
 
  1. Открыть Chrome DevTools
  2. Зайти в панель Elements.
