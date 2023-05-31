@@ -27,7 +27,7 @@
  22. В урлі відправити http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name
  23. Знайти лог request/responce  
  24. Відкрити вкладку Headers
- 25. Просмотрувати General, Response Headers, Request Headers
+ 25. Продемонструвати General, Response Headers, Request Headers
  26. Знайти та скопіювати в новий текстовий файл header - User-Agent.
  27. Відкрити вкладку Preview
  28. Разгорнути всі рівні вложеності JSON
@@ -35,7 +35,7 @@
  30. Розгорнути всі Storage в лівому стовці
  31. Зайти в Cache Storage и Application Cache
  32. Там скрізь буде пусто
- 33. Відкрити будь-який сайт. (Ввести урл сайту в адресну строку та натиснути Enter)
+ 33. Відкрити будь-який сайт (ввести урл сайту в адресну строку та натиснути Enter)
  34. Відкрийте вкладку LightHouse
  35. Натисніть Generate report
  36. Встановіть в браузер бесплатный AdBlocker
