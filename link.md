@@ -1,4 +1,4 @@
-### [Completed task](https://drive.google.com/file/d/1cq5XDlCart_eWRzS99wBu-Dk-KPQ_5UN/view?usp=share_link)
+### [Completed task (screencast)](https://drive.google.com/file/d/1cq5XDlCart_eWRzS99wBu-Dk-KPQ_5UN/view?usp=share_link)
 ---
 ### Task ⤵️
 Виконати завдання та записати скрінкаст
